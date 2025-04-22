@@ -51,6 +51,7 @@ export const Container = styled.section`
      margin-top: 2rem;
      width: 75%;
      filter: grayscale(0);
+     border-radius: 50%;
      transition: filter 0.5s;
      &:hover{
        filter: grayscale(0);

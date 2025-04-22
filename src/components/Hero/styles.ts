@@ -73,4 +73,8 @@ export const Container = styled.section`
   @media(max-width: 480px){
     margin-top: 45%;
   }
+
+  @media (max-width: 740px){
+    padding: 0 4rem;
+  }
 `

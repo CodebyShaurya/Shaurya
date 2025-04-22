@@ -13,6 +13,7 @@ export function Project() {
 
     <ScrollAnimation animateIn="flipInX">
       <div className="project">
+      <img src='https://abhaydixit.vercel.app/projects/edusync.png'/>
         <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
             <title>Folder</title>
@@ -43,6 +44,7 @@ export function Project() {
 
     <ScrollAnimation animateIn="flipInX">
       <div className="project">
+      <img src='https://abhaydixit.vercel.app/projects/resqai.png'/>
         <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
             <title>Folder</title>
@@ -73,6 +75,7 @@ export function Project() {
 
     <ScrollAnimation animateIn="flipInX">
       <div className="project">
+      <img src='https://abhaydixit.vercel.app/projects/ayurguru.png'/>
         <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
             <title>Folder</title>
@@ -96,7 +99,7 @@ export function Project() {
             <li>Node.js</li>
             <li>Gemma</li>
             <li>PostgreSQL</li>
-            <li>Python</li>
+            {/* <li>Python</li> */}
           </ul>
         </footer>
       </div>
@@ -131,9 +134,9 @@ export function Project() {
           </svg>
         </header>
         <div className="body">
-          <h3>Selected for SIH 2023 (Final Round)</h3>
+          <h3>Top 95 in Google hackathon</h3>
           <p>
-            Reached the grand finale of Smart India Hackathon 2023 under software track for building a multilingual AI solution for national-level problem statements.
+            Reached the grand finale of Google AI Impact Hackathon 2024. Cleared within the top 95 teams in Google AI Impact Hackathon from coders all over the world.
           </p>
         </div>
       </div>
@@ -141,15 +144,16 @@ export function Project() {
 
     <ScrollAnimation animateIn="flipInX">
       <div className="project">
+        
         <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
             <path d="M12 2l3 7h7l-5.5 4.5L18 22l-6-4-6 4 1.5-8.5L2 9h7z" />
           </svg>
         </header>
         <div className="body">
-          <h3>Top Performer @ Groq AI Hackathon</h3>
+          <h3>Founder of Tech Bulletin</h3>
           <p>
-            Built Ayurguru, a GroqCloud-powered intelligent chatbot using Gemma + Gemini Pro that delivered lightning-fast health insights with real-time document parsing.
+          Founder of Tech Bulletin, a community with 1000+ members. A community to connect with fellow members, join topic-based groups, and stay updated on upcoming tech events and hackathons.
           </p>
         </div>
       </div>
